@@ -1,7 +1,7 @@
 #include "../lib/unity/unity.h"
 
 // Include the source file containing the functions you want to test
-#include "../src/greet.c"
+#include "../src/greet.h"
 
 // Set up and tear down functions (optional)
 void setUp(void) {
