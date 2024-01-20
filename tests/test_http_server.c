@@ -1,4 +1,4 @@
-#include "../lib/unity/src/unity.h"
+#include "../lib/unity/unity.h"
 
 // Include the source file containing the functions you want to test
 #include "../src/greet.c"
